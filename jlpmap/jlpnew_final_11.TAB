@@ -1,0 +1,10 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+
+Definition Table
+  Type NATIVE Charset "WindowsSimpChinese"
+  Fields 3
+    name Char (20) ;
+    code Integer ;
+    events Integer ;
